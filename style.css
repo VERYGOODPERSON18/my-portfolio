@@ -1,0 +1,19 @@
+h1{
+    color: fuchsia;
+    
+}
+*{
+    border: solid;
+}
+.topmost{
+    border-color: green;
+    background-color: navy;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
